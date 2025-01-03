@@ -1,0 +1,11 @@
+{
+  "name": "33.5_jest",
+  "version": "1.0.0",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brice Nelson",
+  "license": "ISC",
+  "description": ""
+}
